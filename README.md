@@ -4,6 +4,6 @@
 
 * Install [node](https://nodejs.org)
 * Run `npm install`
-* Start `npm run start`
+* Transpile and start server `npm run start`
 * Open `http://localhost:8080/` in browser
 
