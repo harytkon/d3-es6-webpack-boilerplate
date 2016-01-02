@@ -1,7 +1,7 @@
 # D3.js ES6 Webpack boilerplate
 
 Simple boilerplate project with the following technologies:
-* [D3](http://d3js.org/)
+* [D3.js](http://d3js.org/)
 * [Babel](http://babeljs.io)
 * [Webpack](http://webpack.github.io)
 * [Webpack Dev Server](http://webpack.github.io/docs/webpack-dev-server.html)
