@@ -1,6 +1,12 @@
 # D3.js ES6 Webpack boilerplate
 
-## Install & run
+Simple boilerplate project with the following technologies:
+* [D3](http://d3js.org/)
+* [Babel](http://babeljs.io)
+* [Webpack](http://webpack.github.io)
+* [Webpack Dev Server](http://webpack.github.io/docs/webpack-dev-server.html)
+
+## Guide
 
 * Install [node](https://nodejs.org)
 * Run `npm install`
