@@ -13,3 +13,5 @@ Simple boilerplate project with the following technologies:
 * Transpile and start server `npm run server`
 * Open `http://localhost:8080/` in browser
 
+* If you just want to build bundle.js, run `webpack ./es6/main.js`
+
